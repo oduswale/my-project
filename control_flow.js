@@ -13,3 +13,5 @@ if (userRole === "admin") {
 
 // Step 3: Display result in console
 console.log("Access Level:", accessLevel);
+
+
